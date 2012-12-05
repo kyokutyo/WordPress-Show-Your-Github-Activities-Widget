@@ -5,6 +5,7 @@ Tags: widget, github
 Requires at least: 3.4.1
 Tested up to: 3.4.1
 Stable tag: 0.1
+Donate link:
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -43,6 +44,9 @@ the directory of the stable readme.txt, so in this case, `/tags/4.3/screenshot-1
 = 0.1 =
 #FIXME
 * List versions from most recent at top to oldest at bottom.
+
+== Upgrade Notice ==
+
 
 == Arbitrary section ==
 

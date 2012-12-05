@@ -9,7 +9,7 @@ Author URI: http://kyokutyo.com/
 Author Email: kyokutyo@gmail.com
 */
 
-class Show_your_Github_activities extends WP_Widget
+class Show_Your_Github_Activities extends WP_Widget
 {
     public function __construct()
     {
@@ -57,5 +57,5 @@ class Show_your_Github_activities extends WP_Widget
 add_action('widgets_init', 'register_syga_widget');
 function register_syga_widget()
 {
-    register_widget('Show_your_Github_activities');
+    register_widget('Show_Your_Github_Activities');
 }

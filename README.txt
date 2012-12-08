@@ -1,4 +1,4 @@
-=== Show Your Github Activities ===
+=== Show Your GitHub Activities ===
 
 Contributors: kyokutyo
 Tags: widget, github
@@ -9,44 +9,32 @@ Donate link:
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Show your GitHub activities! - http://syga.kjirou.net/
+Show Your GitHub Activities! - http://syga.kjirou.net/
 
 == Description ==
 
 *   http://syga.kjirou.net/
-*   This widget show your Github activities.
+*   This widget show your GitHub activities.
 
 == Installation ==
-#FIXME
-1. Upload `plugin-name.php` to the `/wp-content/plugins/` directory
-1. Activate the plugin through the 'Plugins' menu in WordPress
-1. Place `<?php do_action('plugin_name_hook'); ?>` in your templates
+1. Upload the files to the `/wp-content/plugins/show-your-github-activities/` directory.
+2. Activate the plugin through the 'Plugins' menu in WordPress
+3. Go to Appearance > Widgets and drag 'Show Your GitHub Activities' to your sidebar
+4. Update the settings in the widget: GitHub username, width, height
 
 == Frequently Asked Questions ==
-#FIXME
-= A question that someone might have =
 
-An answer to that question.
-
-= What about foo bar? =
-
-Answer to foo bar dilemma.
+#TODO
 
 == Screenshots ==
 
-#FIXME
-1. This screen shot description corresponds to screenshot-1.(png|jpg|jpeg|gif). Note that the screenshot is taken from
-the directory of the stable readme.txt, so in this case, `/tags/4.3/screenshot-1.png` (or jpg, jpeg, gif)
-2. This is the second screen shot
+1. example
 
 == Changelog ==
 
 = 0.1 =
-#FIXME
-* List versions from most recent at top to oldest at bottom.
+* Initial release of Beta version.
 
 == Upgrade Notice ==
 
-
 == Arbitrary section ==
-

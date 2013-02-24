@@ -4,7 +4,7 @@ Contributors: kyokutyo
 Tags: widget, github
 Requires at least: 3.4.1
 Tested up to: 3.5.1
-Stable tag: 0.0.4
+Stable tag: 0.0.5
 Donate link:
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -31,6 +31,9 @@ Show Your GitHub Activities! - http://syga.kjirou.net/
 1. example
 
 == Changelog ==
+
+= 0.0.5 =
+* Change Current Version.
 
 = 0.0.4 =
 * Update README.txt.

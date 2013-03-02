@@ -3,7 +3,7 @@
 Plugin Name: Show Your GitHub Activities
 Plugin URI: http://github.com/kyokutyo/WordPress-Show-Your-Github-Activities-Widget
 Description: Generate widget to show your activities for lazy good neighbors. http://syga.kjirou.net/
-Version: 0.0.5
+Version: 0.0.6
 Author: kyokutyo
 Author URI: http://kyokutyo.com/
 Author Email: kyokutyo@gmail.com
